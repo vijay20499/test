@@ -13,7 +13,7 @@ for(int j=0;j<n;j++)
 if(i!=j&&a[i]==a[j])
 c++;
 }
-if(c==1)
+if(c>=1)
 {
 printf("%d",a[i]);
 return 0;
