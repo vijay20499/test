@@ -1,4 +1,4 @@
-package coupling;
+
 
 class Ticket {
 	private int numAdults, numChildren;
